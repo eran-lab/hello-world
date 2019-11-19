@@ -1,5 +1,8 @@
 # hello-world
 
-hello'
-my name is eran im a student in robotics lab.
-I love waffles.
+<<<<<<< readme-edit
+HI
+my name is eran and im a student in robotics lab. 
+i love waffles. 
+=======
+
